@@ -1,6 +1,7 @@
 # 2D-NAVIGATION-ENVIRONMENT
 2D navigation environment with manual controls.To be expanded upon.
 ![Simulation](2dNav.png)
+![Simulation](2dPathfinding.png)
 
 # 2D Navigation Environment
 
